@@ -1,0 +1,15 @@
+{
+	"installed_packages":
+	[
+		"All Autocomplete",
+		"Package Control",
+		"Pylinter",
+		"Python Auto-Complete",
+		"SublimeCodeIntel",
+		"SublimeLinter",
+		"SublimeREPL",
+		"SyncedSideBar",
+		"TagWrapper",
+		"Terminal"
+	]
+}
